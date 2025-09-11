@@ -1,14 +1,6 @@
 # Mobile Programming - Flutter Setup & First App
 
 Praktikum ini bertujuan untuk memahami tahapan instalasi, konfigurasi, dan verifikasi lingkungan pengembangan aplikasi mobile menggunakan **Flutter**, serta menguji aplikasi dasar pada **emulator** dan **smartphone fisik**.
-
-## 👩‍🎓 Identitas
-- **Nama**  : Nadila Shifa Auria  
-- **NIM**   : 230605110072  
-- **Kelas** : E  
-- **Tanggal** : 5 September 2025  
-- **Mata Kuliah** : Mobile Programming  
-
 ---
 
 ## 🎯 Tujuan
